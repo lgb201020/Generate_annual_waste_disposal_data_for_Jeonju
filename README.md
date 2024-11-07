@@ -1,0 +1,1 @@
+# Generate_annual_waste_disposal_data_for_Jeonju
